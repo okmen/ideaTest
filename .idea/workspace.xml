@@ -46,11 +46,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/testJava.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.37093276" vertical-offset="0" max-vertical-offset="461">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -466,12 +463,12 @@
       <created>1543756777444</created>
       <option name="number" value="Default" />
       <updated>1543756777444</updated>
-      <workItem from="1543756784465" duration="1384000" />
+      <workItem from="1543756784465" duration="1752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1384000" />
+    <option name="totallyTimeSpent" value="1752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
@@ -542,11 +539,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/testJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37093276" vertical-offset="0" max-vertical-offset="461">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
